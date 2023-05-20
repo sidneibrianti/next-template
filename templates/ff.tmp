@@ -1,0 +1,6 @@
+import React from 'react';
+#STYLE#
+interface #NAME#Props {}
+export function #NAME# ({}:#NAME#Props) {
+    return <div>#NAME#</div>;
+};
